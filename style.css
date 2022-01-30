@@ -1,5 +1,10 @@
-body{ background: blanchedalmond;
+  p{
+    text-align: center;
+    color: Red;
+    
+   background-color: black;
+   font-size: 20px;
+    
+  }
   
-  
-}
   
